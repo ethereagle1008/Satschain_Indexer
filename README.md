@@ -15,7 +15,7 @@ It stores all the blockchain primitives (blocks, transactions, receipts, logs, t
 
 - [Rust](https://www.rust-lang.org/tools/install)
 - [ClickHouse](https://clickhouse.com/)
-
+ 
 ### Installing ClickHouse on Ubuntu
 ```
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv E0C56BD4
